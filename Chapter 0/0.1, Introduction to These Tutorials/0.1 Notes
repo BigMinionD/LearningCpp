@@ -1,0 +1,35 @@
+# Goals of Tutorials
+-Cover general programming topics alongside C++
+-Provide many examples
+-Provide practice programs
+-Having fun
+
+# Getting the most out of the Tutorials
+-Type out examples by hand
+-Fix mistakes or bugs as I find them
+-Experiment with examples
+-Plan to spend time with quizes
+-Write my own short programs
+
+# Common Site-Related Questions
+## How do I sign up for this site and get a login?
+-All parts of the site are accessible anonymously; no user account or signup is needed.
+
+## Is there a PDF version of the side available?
+-Unfortunately, no. The site is able to stay free for everyone because it is ad-sponsored. That model doesn't work for PDF format.
+
+## What do I do if I get stuck on a concept?
+-Read through some comments, other readers may have similar problems
+-Scan through the next lesson or two, the question may be answered there
+-Use a search engine to see if my question/error message is answered somewhere else
+-Ask my question on a site that is designed for programming Q&A, such as Stack Overflow
+-If all else fails, come back to it later
+
+## What do I do if I forget what something means?
+-Use the site index or look through the glossary of C++ terms
+
+## Is there a similar site for other coding languages?
+-No, just maintaining this site takes a lot of time
+
+## Can you use a dark mode for this site?
+-I can use darkreader.org
