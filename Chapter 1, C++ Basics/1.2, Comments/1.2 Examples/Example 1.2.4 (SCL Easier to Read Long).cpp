@@ -9,4 +9,6 @@ int main(){
 
     // don't you think so?
     std::cout << "Yeah!\n";
+
+    return 0;
 }
